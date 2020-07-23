@@ -20,7 +20,8 @@
   
   * ```git init``` 입력 (git 초기화)
   
-  * ``` git config --global user.email “email” git config --global user.name “name”  ``` 입력
+  * ``` git config --global user.email “email”``` <br/>
+    ```git config --global user.name “name”  ``` 입력
   
 ## 2. Git <-> Local
 
