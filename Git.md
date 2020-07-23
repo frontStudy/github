@@ -12,7 +12,7 @@
 
   * wsl 설치
   
-  * wsl에서 ```sudo apt install git-all``` 입력
+  * wsl에서 ```sudo apt-get install git``` 입력
   
   * ```git --version``` 으로 제대로 설치 되었는지 확인 
   
