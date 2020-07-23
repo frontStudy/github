@@ -1,0 +1,17 @@
+git init
+
+브랜치 생성 : issue1
+
+코드 수정 , ctrl+s
+ 
+git checkout -b issue1
+
+git add abc.txt
+
+git commit -m "sdfhkla"
+
+git push origin issue1
+
+git checkout master
+
+git merge issue1
