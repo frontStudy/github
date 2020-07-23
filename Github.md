@@ -19,19 +19,20 @@ git의 원격 저장소
   
 ## 2. team project
 
-  * __commit 방법__ : git에서 하는 경우 git commit으로 하면 된다. <br/>
+  * __commit 방법__ : <br/>
+  git에서 하는 경우 git commit으로 하면 된다. <br/>
                       github 사이트에서 하는 경우 add file 클릭 후 upload 혹은 직접 파일을 작성하면 된다. (~~이 문서도 그렇게 작성되고 있다.~~)
     
 
-  * __issue__ : 프로젝트를 진행하다가 잡다한 특이점(요구사항, 에러, 등등)을 올리는 곳 
+  * __issue__ : <br/> 프로젝트를 진행하다가 잡다한 특이점(요구사항, 에러, 등등)을 올리는 곳 
   
-  * __pull request__ : 팀 구성원이 원격 저장소로 commit 했더라도, <br/>
+  * __pull request__ : <br/> 팀 구성원이 원격 저장소로 commit 했더라도, <br/>
                        본인이 pull-request를 신청하여 다른 팀 구성원으로 하여금 검토 후 pull-request를 받아주게끔 해야한다. <br/>
                        받아져야지 정상적으로 commit이 된다.
   
-  * __README.md__ : 우리 프로젝트가 어떤 프로젝트인지 간략한 설명을 하는 곳
+  * __README.md__ : <br/> 우리 프로젝트가 어떤 프로젝트인지 간략한 설명을 하는 곳
   
-  * __Wiki__ : README.md와 같은 역할
+  * __Wiki__ : <br/> README.md와 같은 역할
   
   
   * [`동기화`](https://github.com/frontStudy/github/blob/master/Git.md "깃 게시글로 가기") <br/>
