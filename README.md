@@ -1,6 +1,12 @@
-# GitHub Tutorial
+# GitHub Tutorial - Git
 
 ## 0. git 이란?
+
+개발자의 코드를 항상 지켜보는 도구
+
+가면 갈수록 점점 더 복잡하고 관리하기 힘든 코드를 다루는데 도움을 줄 강력한 도구
+
+팀 프로젝트에 있어서 협업을 도와 줄 수 있는 유용한 도구
 
 ## 1. git 설치
 
@@ -55,6 +61,7 @@
 ### 브랜치(branch)
 ```
 원할한 파일 변경을 위해 만들어진 방법
+
 초기화 되있는 상태에선 branch가 master 하나 뿐이지만, git branch branch_name 과 같은 방법으로 branch를 늘릴 수 있다.
 git checkout branch_name을 입력하면 브랜치가 master에서 issue1으로 변경된다. branch 생성과 변경 동시에 하려면 git checkout -b branch_name을 입력하면 된다. (-b 옵션)
 사용하는 일례로, issue1 브랜치를 생성 후, 작업을 진행한 후 master 브랜치에 git checkout master , git merge issue1 2개의 명령어를 사용하여 병합할 수 있다.  
