@@ -28,7 +28,7 @@
   
   * ```git add example.html``` 입력
   
-  * 파일 내용 수정 (수정할 때 branch 사용 가능) [branch 내용 보러가기](#브랜치) 
+  * 파일 내용 수정 (수정할 때 branch 사용 가능) [branch 내용 보러가기](#브랜치branch) 
   
   * ```vim example.html```을 입력해 변화 확인
   
