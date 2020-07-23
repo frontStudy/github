@@ -29,7 +29,7 @@ git의 원격 저장소
   
   * __Wiki__ : README.md와 같은 역할
   
-  * [`동기화`]("https://github.com/frontStudy/github/blob/master/Git.md Git 게시글로 가기") <br/>
+  * [동기화]("https://github.com/frontStudy/github/blob/master/Git.md Git 게시글로 가기") <br/>
      
     GitHub Tutorial - Git에서 말했듯이, 작업 전 git pull 혹은 git clone을 해야한다. <br/>
     만일 작업이 끝났는데 작업한 코드가 진작에 Github에서 업데이트 된 코드인 상황을 방지하기 위해서다. <br/>
